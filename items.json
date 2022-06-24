@@ -1,11 +1,34 @@
 [
     {
-        "url": "https://www.amazon.com/GREATONE-Electric-Frothers-cappuccino-chocolate/dp/B08NC2N42N/ref=sr_1_1?brr=1&pd_rd_r=a7120e66-53cf-490d-bc66-d6b4ff144aa7&pd_rd_w=rITU1&pd_rd_wg=5QSVE&pf_rd_p=eca5c6c5-8f7a-49d9-8ff4-b407897b25c1&pf_rd_r=JBD8E8M1A5FN1Z0AQRX8&qid=1656037482&rd=1&s=home-garden&sr=1-1",
-        "check": 2,
-        "htmlId": "price",
+        "url": "https://www.amazon.com/dp/B00F0DD0I6/ref=s9_acsd_al_bw_c2_x_0_t?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=J9XVQ2D1SRP3W73J685H&pf_rd_t=101&pf_rd_p=2fc35c0a-c6c9-4774-af15-1c246c572573&pf_rd_i=21217028011",
+        "check": 1,
+        "check_against": 10,
+        "htmlId": "a-price-whole",
         "check_period": 5000,
         "notify": {
-            "notification_type": 2,
+            "notification_type": 1,
+            "address": ""
+        }
+    },
+    {
+        "url": "https://www.ebay.com/itm/264969380448",
+        "check": 1,
+        "check_against": 100,
+        "htmlId": "prcIsum",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": 1,
+            "address": ""
+        }
+    },
+    {
+        "url": "https://coinmarketcap.com/currencies/bitcoin/",
+        "check": 1,
+        "check_against": 100,
+        "htmlId": "priceValue",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": 1,
             "address": ""
         }
     }
