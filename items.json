@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://www.amazon.com/GREATONE-Electric-Frothers-cappuccino-chocolate/dp/B08NC2N42N/ref=sr_1_1?brr=1&pd_rd_r=a7120e66-53cf-490d-bc66-d6b4ff144aa7&pd_rd_w=rITU1&pd_rd_wg=5QSVE&pf_rd_p=eca5c6c5-8f7a-49d9-8ff4-b407897b25c1&pf_rd_r=JBD8E8M1A5FN1Z0AQRX8&qid=1656037482&rd=1&s=home-garden&sr=1-1",
+        "check": 2,
+        "htmlId": "price",
+        "check_period": 5000,
+        "notify": {
+            "notification_type": 2,
+            "address": ""
+        }
+    }
+]
